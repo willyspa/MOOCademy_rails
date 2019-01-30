@@ -1,5 +1,4 @@
-# This is a Ruby on Rails project for The Hacking Project done by Maxime Crespo and Jules Couturaud.
-
+# This is a Ruby on Rails project for The Hacking Project done by William spartacus
     Ruby version : 2.5.1
 
     System dependencies : gem you need or may need : gem 'execjs', gem 'therubyracer',gem 'table_print',gem 'faker'.
